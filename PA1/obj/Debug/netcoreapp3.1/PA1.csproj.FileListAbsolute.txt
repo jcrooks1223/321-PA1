@@ -1,0 +1,12 @@
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.csprojAssemblyReference.cache
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.AssemblyInfoInputs.cache
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.AssemblyInfo.cs
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.csproj.CoreCompileInputs.cache
+/Users/CrisReeves/Source/Repo/PA1/bin/Debug/netcoreapp3.1/PA1.deps.json
+/Users/CrisReeves/Source/Repo/PA1/bin/Debug/netcoreapp3.1/PA1.runtimeconfig.json
+/Users/CrisReeves/Source/Repo/PA1/bin/Debug/netcoreapp3.1/PA1.runtimeconfig.dev.json
+/Users/CrisReeves/Source/Repo/PA1/bin/Debug/netcoreapp3.1/PA1.dll
+/Users/CrisReeves/Source/Repo/PA1/bin/Debug/netcoreapp3.1/PA1.pdb
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.dll
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.pdb
+/Users/CrisReeves/Source/Repo/PA1/obj/Debug/netcoreapp3.1/PA1.genruntimeconfig.cache
